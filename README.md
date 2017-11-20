@@ -1,1 +1,1 @@
-# ScreenShooter
+# ScreenShot
